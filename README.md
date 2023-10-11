@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m @JoanneBiltz
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity and robotics
 - 🌱 I’m currently learning how to compete in CTFs
 - 💞️ I’m working on my Security+ Certification
 
