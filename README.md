@@ -6,8 +6,8 @@
 
 - 👋 Hi, I’m @JoanneBiltz
 - 👀 I’m interested in cybersecurity and robotics
-- 🌱 I’m currently learning how to compete in CTFs
-- 💞️ I’m working on my Security+ Certification
+- 🌱 I’m currently creating a pentesting lab to help with learning
+- 💞️ I’m working on my PNPT certification
 
 <!---
 JoanneBiltz/JoanneBiltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
